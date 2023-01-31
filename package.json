@@ -1,0 +1,15 @@
+{
+  "name": "Tasks",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch src/service.js"
+  },
+  "author": "Lucas Xavier",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^6.2.6"
+  }
+}
